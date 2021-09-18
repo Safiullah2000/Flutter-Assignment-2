@@ -1,0 +1,38 @@
+There are three types of operators:
+1.  Arithmetic operators
+2.  Equality and Relational Operators
+3.  Logical Operators
+
+1. Arithmetic Operators:
+   i.   + Add
+   ii.  - Subtract
+   iii. * Multiply
+   iv.  / Divide
+   v.   ~/ Divide, returning an integer result
+   vi.  % Get the remainder of an integer division (modulo)
+   vii. ++ increment
+   viii. -- Decrement
+
+2. Equality and Relational Operators:
+   Operators   Description                Example
+i.    >         greater than             A>B is False
+ii.   <         Lesser than              A<B is True
+iii.  >=      Greater than or equal to   A>=B is False
+iv.   <=      Less than or equal to      A<=B is True
+v.    ==          Equality               A==B is False
+vi.   !=         Not Equal               A!=B is True
+
+
+3. Logical Operators:
+Operator           Description                   Example
+i. &&         And- The operator returns        (A>10 && B>10)
+              true only if all the expression   is False
+              specified return true.
+
+ii. ||        OR- The Operator returns true only   (A>10 || B>10)
+              if at least one of the expressions     is True.
+              specified return true.
+
+iii. !        NOT - The operator returns the inverse  !(A>10) is True
+              of the expression's result. For E.g:
+              !(7>5) returns false.

@@ -1,0 +1,55 @@
+Data types in dart
+There are 5 data types in dart:
+1. Number
+2. Strings
+3. Booleans
+4. Lists
+5. Maps
+
+1. Number
+Number in Dart are used to reperesent numeric literals
+
+keywords:
+int,double,num
+
+Examples:
+int a = 1;   // it will take only natural numbers
+double b = 2.4;  // it only takes decimal point numbers
+num c = 4 or c=5.8  // it contains both natural or decimal point numbers
+
+2. Strings
+Strings represent a sequence of characters.
+
+Keyword:
+String
+
+Example:
+String name = "Safiullah Parvez";
+
+3. Booleans
+It represents Boolean values true and false
+
+keyword:
+bool 
+
+Example:
+bool condition = A>B; it will return true or false
+
+4. Lists
+It is an ordered group of Objects
+
+keyword:
+List
+
+Example
+List fruits = ["Apple","Mango","Orange"];
+
+
+5. Maps
+It represents a set of values as key-value pairs.
+
+Keyword:
+Map
+
+Example:
+Map data = {'name':'Safiullah','Occupation':'student'};

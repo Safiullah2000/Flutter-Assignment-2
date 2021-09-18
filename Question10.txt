@@ -1,0 +1,15 @@
+Question 10
+
+5 legal variable names
+i.    name
+ii.   chair_name
+iii.  fruits
+iv.   listOfcity
+v.    a
+
+5 illegal variable names
+i.  var
+ii. 3name
+iii. father name
+iv. class
+v.  #place
